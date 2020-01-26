@@ -40,6 +40,7 @@ var firebaseConfig = {
     //My tutor and I ran out of time!
     //So this is as far as I got.
     // I was trying to find the time syntax I needed to use to populate the times
+    // I believe that is what moments are for. Also I've been waiting for the videos to show up in the sessions to re-watch them. Firebase vids are not up yet
     //Also append the new information to show at the top of the screen inside the tr th tags
     //I created a new project in firebase called Homework7Train and got the api key and info.
     //I wanted to see my inputs in the database but im thinking its because I didnt finish the code.
