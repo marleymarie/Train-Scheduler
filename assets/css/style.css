@@ -1,0 +1,25 @@
+#headerPic {
+     padding: 5px;
+     margin-bottom: 10px;
+    }
+
+
+.jumbotron {
+     text-align: center;
+}
+
+.container {
+     background-color: rgb(153, 17, 17);
+     color: white;
+}
+
+#h {
+     color: white;
+     background-color: rgb(153, 17, 17);
+}
+
+.tHead{
+     color: white;
+background-color: rgb(153, 17, 17);
+
+}
